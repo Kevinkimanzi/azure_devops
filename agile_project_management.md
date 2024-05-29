@@ -8,8 +8,10 @@ Expenses that a business incurs through it's normal business operation
 
 ## AGILE PROJECT MANAGEMENT
 ### Azure Board
-Azure Boards is a project managent tool that enables teams to plan, track, and discuss work across the entire development process, while it supports agile methodologies
- create a basic azure board (Epic) with the following items:
+##### Azure Boards
+is a project managent tool that enables teams to plan, track, and discuss work across the entire development process, while it supports agile methodologies.
+
+Create a basic azure board (Epic) with the following items:
 
          1. WEBSITE UPDATE
 
@@ -29,16 +31,16 @@ Azure Boards is a project managent tool that enables teams to plan, track, and d
 </div>
 <br>
 
-<div align="center">
+<div>
     <P>I am going to practice Azure Boards and Agile Project Management using azure devops project generator</P>
     
-<p>Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.</p>
+    <p> Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo. </p>
 
-<P>Navigate to <a href=" https://azuredevopsdemogenerator.azurewebsites.net">Azure devops demo generator</a> This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab.</p>
+    <P>Navigate to <a href=" https://azuredevopsdemogenerator.azurewebsites.net">Azure devops demo generator</a> This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab.</p>
 
-<p>Sign in using the Microsoft account associated with your Azure DevOps subscription.</p>
+    <p>Sign in using the Microsoft account associated with your Azure DevOps subscription.</p>
 
-</p>
-  <img src="projectgenerator.png" alt="project generator image" width="100%" height="100%">
+    </p>
+    <img src="projectgenerator.png" alt="project generator image" width="100%" height="100%">
   
 </div>
