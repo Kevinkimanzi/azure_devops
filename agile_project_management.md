@@ -14,3 +14,7 @@ Azure Boards is a project managent tool that enables teams to plan, track, and d
   <img src="board.png" alt="board image" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
+
+<div>
+    <image  src="board.png">
+</div>
