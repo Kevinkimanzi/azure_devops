@@ -37,7 +37,7 @@ Create a basic azure board (Epic) with the following items:
  <p> Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo. </p>
 
 Navigate to 
-<a href="www.google.com">google</a>
+<a href="https://azuredevopsdemogenerator.azurewebsites.net">Azure devops demo generator</a>
  <P>This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab.</p>
 
 <p>Sign in using the Microsoft account associated with your Azure DevOps subscription.</p>
