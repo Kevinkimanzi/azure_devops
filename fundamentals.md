@@ -33,7 +33,7 @@ eg aws elestic beanstalk and heroku google app engine, azure web app
 
 #### 3.IAAS (Infrastucture as a service)- Basic building block for cloud IT. Provide access to network computer and data. eg azure, aws, oracle cloud 
 
-# Cloud deploymwnt model
+# Cloud deployment model
 #### 1.PUBLIC CLOUD/ gnerally is known as cloud native
 Everything build on the cloud provider
 
