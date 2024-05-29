@@ -10,11 +10,17 @@ Expenses that a business incurs through it's normal business operation
 ### Azure Board
 Azure Boards is a project managent tool that enables teams to plan, track, and discuss work across the entire development process, while it supports agile methodologies
  create a basic azure board (Epic) with the following items:
+
          1. WEBSITE UPDATE
+
              TASKS:1.UI design
+
                    2.add css
+
                    3.standadize font
+
          2.CLOUD MIGRATION
+         
          3.CICD IMPLEMENTATION
 
 <div align="center">
