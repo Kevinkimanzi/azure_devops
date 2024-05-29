@@ -27,15 +27,16 @@ Azure Boards is a project managent tool that enables teams to plan, track, and d
   <img src="board.png" alt="board image" width="100%" height="100%">
   <p align="center">Board screenshot</p>
 </div>
+<br>
 
 <div align="center">
     <P>I am going to practice Azure Boards and Agile Project Management using azure devops project generator</P>
-    <p>Azure DevOps Demo Generator
-Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.
+    
+<p>Use these steps to load dummy data into your Azure DevOps project. We will use this data in the demo.</p>
 
-Navigate to <a href=" https://azuredevopsdemogenerator.azurewebsites.net"> This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab.
+<P>Navigate to <a href=" https://azuredevopsdemogenerator.azurewebsites.net">Azure devops demo generator</a> This utility site will automate the creation of a new Azure DevOps project within your account that is prepopulated with content (work items, repos, etc.) required for the lab.</p>
 
-Sign in using the Microsoft account associated with your Azure DevOps subscription.
+<p>Sign in using the Microsoft account associated with your Azure DevOps subscription.</p>
 
 </p>
   <img src="projectgenerator.png" alt="project generator image" width="100%" height="100%">
