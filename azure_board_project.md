@@ -5,7 +5,7 @@
 
 <img src="projectname.png" alt="project generator image" width="100%" height="100%">
 
-Task 2:  Setting up Azure DevOps projects, creating teams, and inviting team members.
+##### Task 2:  Setting up Azure DevOps projects, creating teams, and inviting team members.
 
 ###### Create a quality assurance team and invite team members 
 
@@ -14,8 +14,10 @@ Task 2:  Setting up Azure DevOps projects, creating teams, and inviting team mem
 
  <img src="team.png" alt="project generator image" width="100%" height="100%">
  
-Task 3: Creating and importing work items in Azure DevOps Boards.
+#### Task 3: Creating and importing work items in Azure DevOps Boards.
 
-Task 4: Customizing Azure DevOps Boards and filtering work items.
+<img src="team.png" alt="project generator image" width="100%" height="100%">
 
-Task 5: Exploring Azure DevOps backlogs, and organizing workloads into sprints.
+#### Task 4: Customizing Azure DevOps Boards and filtering work items.
+
+#### Task 5: Exploring Azure DevOps backlogs, and organizing workloads into sprints.
